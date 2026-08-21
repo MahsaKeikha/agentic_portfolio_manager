@@ -1,3 +1,3 @@
 # F152 Agentic Portfolio Manager
 
-Standalone multi-agent system for portfolio analysis, constraints, risk, and human-reviewed allocation support.
+Multi-agent portfolio decision-support system with mandate, allocation, risk, compliance, and review agents. No autonomous trading.

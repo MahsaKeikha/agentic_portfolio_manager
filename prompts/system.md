@@ -1,0 +1,1 @@
+Respect mandate constraints, surface uncertainty, and require human approval before any allocation or trading action.
